@@ -1,4 +1,4 @@
-INSERT INTO students (name, grade, gpa, tardies)
+INSERT INTO students (name, grade, gpa, tardies) 
     VALUES ("John", 11, 3.4, 3);
 INSERT INTO students (name, grade, gpa, tardies)
     VALUES ("Kareem", 10, 2.4, 12);
